@@ -1,0 +1,19 @@
+{
+  "name": "cameleon",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prince Batra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.4",
+    "mongoose": "^5.2.13",
+    "rand-token": "^0.4.0",
+    "randomword": "^0.1.3"
+  }
+}
